@@ -4,7 +4,7 @@ This project demonstrates how to deploy a fully containerized **social media web
 
 
 
-The application is live at: **https://www.delightdavid.org.ng**
+
 
 ---
 
@@ -77,8 +77,7 @@ kubectl get ingress php-app-ingress
 Then in Route 53 (or your DNS provider), create a CNAME or A record (Alias) for:
 www.delightdavid.org.ng -> <ALB DNS name>
 
-✅ Final Validation
-Visit https://www.delightdavid.org.ng
+
 
 Confirm SSL is active (ACM)
 
@@ -91,4 +90,3 @@ Load is distributed across PHP app replicas
 👨‍💻 Author
 Chukwuagoziem Delight David
 DevOps Engineer
-🔗 www.delightdavid.org.ng
