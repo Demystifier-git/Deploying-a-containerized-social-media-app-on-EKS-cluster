@@ -4,7 +4,7 @@ This project demonstrates how to deploy a fully containerized **social media web
 
 
 
-The application is live at: **https://www.delightdavid.org.ng**
+
 
 ---
 
@@ -91,4 +91,3 @@ Load is distributed across PHP app replicas
 👨‍💻 Author
 Chukwuagoziem Delight David
 DevOps Engineer
-🔗 www.delightdavid.org.ng
